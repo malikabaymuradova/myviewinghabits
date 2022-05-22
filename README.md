@@ -9,6 +9,6 @@ In this project, I will use my personal (IMDb) dataset with all the movies I rat
 
 1. Most Watched Movie Directors 
 
-Assumption: If I watched a lot of the movies for a certain dorector and rated it > 7, then I am more likely to enjoy other movies directed by them for the similar genre
+Assumption: If I watched a lot of movies (> 2 ) for a certain director and rated it > 7, then I am more likely to enjoy other movies directed by them for the similar genre
 
 ![most_watcheddirectors_top15](https://user-images.githubusercontent.com/104313288/169676253-8b30091d-9d0f-4b65-b618-9339c1ff8994.png)
