@@ -5,7 +5,7 @@ In this project, I will use my personal (IMDb) dataset with all the movies I rat
 
 ## Analysis
 
-## Step 1: Visualize my viewing habits 
+### Step 1: Visualize my viewing habits 
 
 1. Most Watched Movie Directors 
 
